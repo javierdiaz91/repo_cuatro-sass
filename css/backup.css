@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background-nav{
+    background-color: white;
+}
+.img{
+    width: 1400px;
+    height: 600px;
+    border: 2px;
+    margin: 8px;
+    position: relative;
+}
+.footer{
+    width: auto;
+    height: 100px;
+    margin: 8px;
+    border: 2px;
+    background-color: deepskyblue;
+    color: blue;
+}
+
+
+
